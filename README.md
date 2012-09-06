@@ -1,4 +1,6 @@
-cns3060-matkent
+Mat Kent
 ===============
 
-This is the private repository for matkent for 3060
+CS3060
+601
+matkent@gmail.com
